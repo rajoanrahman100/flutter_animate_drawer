@@ -20,15 +20,15 @@ List<Map> drawerItems=[
     'title' : 'Adoption'
   },
   {
-    'icon': Icons.mail,
+    'icon': FontAwesomeIcons.envelope,
     'title' : 'Donation'
   },
   {
-    'icon': FontAwesomeIcons.plus,
+    'icon': FontAwesomeIcons.plusCircle,
     'title' : 'Add pet'
   },
   {
-    'icon': Icons.favorite,
+    'icon': FontAwesomeIcons.heart,
     'title' : 'Favorites'
   },
   {
@@ -36,7 +36,7 @@ List<Map> drawerItems=[
     'title' : 'Messages'
   },
   {
-    'icon': FontAwesomeIcons.userAlt,
+    'icon': FontAwesomeIcons.user,
     'title' : 'Profile'
   },
 ];
